@@ -24,7 +24,7 @@
 ---
 
 ## 💻 Код програми
-Файл: [`main.cpp`](main.cpp)
+Файл: [`main.cpp`](main1.cpp)
 
 ```cpp
 #include <iostream>
